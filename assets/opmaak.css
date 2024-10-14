@@ -5,3 +5,7 @@ nav
     align-items: center;
     justify-content: space-between;
 }
+img {
+    height: 70px;
+    width: 100px;
+}
